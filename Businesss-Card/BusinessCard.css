@@ -1,0 +1,50 @@
+Html {
+	background: black;
+}
+
+
+
+Body{
+        margin: 20px;
+        font-family: geneva, tahoma, sans-serif;
+       
+      
+
+}
+
+img {
+	width:255px;
+	border-radius: 70px 20px;
+
+}
+
+.card {
+	padding:20px;
+	display:flex; 
+	justify-content:space-around; 
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border-bottom: 3px solid #F2B90F;
+	border-top: 3px solid dodgerblue;
+	border-right: 3px solid #F2B90F;
+	border-left: 3px solid dodgerblue;
+	background: rgb(224,181,49);
+    background: linear-gradient(153deg, rgba(224,181,49,1) 26%, rgba(45,98,228,1) 76%);
+    color: black;
+    border-radius: 18px 70px; 
+	
+}
+
+.text-shadow {
+	text-shadow: 2px 2px lightsteelblue;
+      
+}
+
+.white-font {
+	color: white;
+	text-shadow:2px 1px  black;
+}
+
+
